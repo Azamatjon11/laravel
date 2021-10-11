@@ -1,2 +1,2 @@
 # laravel
-This is a MYITEDU 2021 group's playground
+This is a simple webpage built on Laravel that keeps sent messages on database and displays on message section.
